@@ -29,39 +29,39 @@ If you are looking for basic packages of termux then this is right tool for you.
  -  host
 
 
-This command for access the storage in termux 
-termux-setup-storage.
+y
 
 
-## Installation 
+
+
  
-## Termux
+
+  
+   
+  
+  
+   
+   
+  
+   
+   
+  
+   
+  
+   
+ 
+
    ```
-   $ apt install git 
-   ```
-   ```
-   $ apt install python 
-   ```
-   ```
-   $ git clone https://github.com/vpphacker/vppbasic
-   ```
-   ```
-   $ cd vppbasic 
-   ```
-   ```
-   $ ls
-   ```
-   ```
-   $ chmod +x *
-   ```
-   ```
-   $ ls
-   ```
-   ```
-   $ python vppbasic.py
-```
+
+
+ 
+
+
+
+
+
 
 This will take too much time it's depends on your data connection. 
 
-### Visit on Github 
+
 
